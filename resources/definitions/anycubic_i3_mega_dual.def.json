@@ -10,7 +10,7 @@
         "platform": "anycubic_i3_mega_platform.3mf",
         "platform_offset": [-115, -40, 115],
         "has_materials": true,
-        "has_variants": true,
+        "has_variants": false,
         "variants_name": "Nozzle Size",
         "preferred_variant_name": "0.4",
         "preferred_quality_type": "normal",
